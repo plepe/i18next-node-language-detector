@@ -1,0 +1,7 @@
+{
+  "name": "i18next-node-language-detector",
+  "version": "0.0.0",
+  "main": "src/index.js",
+  "author": "Stephan Bösch-Plepelits <skunk@xover.mud.at>",
+  "license": "GPL-3.0"
+}
